@@ -1,0 +1,14 @@
+{
+    "apps": [
+        {
+            "name": "react",
+            "script": "npm",
+            "args": "start"
+        },
+        {
+            "name": "node",
+            "script": "npm",
+            "args": "run server"
+        }
+    ]
+}
